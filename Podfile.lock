@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.6.0)
+  - BetterSegmentedControl (0.9)
+  - Charts (3.0.4):
+    - Charts/Core (= 3.0.4)
+  - Charts/Core (3.0.4)
+  - Socket.IO-Client-Swift (13.1.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.3)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BetterSegmentedControl (~> 0.8)
+  - Charts
+  - Socket.IO-Client-Swift (~> 13.1.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  BetterSegmentedControl: 40b2b6a08bbc59663149624d1b5235efa8d43a3c
+  Charts: 0705898046257443f0afbbc3179f4b67507b6e48
+  Socket.IO-Client-Swift: b67a96d6a9e5f271bceb93e99779d2cf77c74868
+  Starscream: dfb1b3f39506717ee52b67fb48de0c8269504cbc
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 16086bfbe0a2f27aa0ca2e7e7f9194aacd7e801b
+
+COCOAPODS: 1.2.1
